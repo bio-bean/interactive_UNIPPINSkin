@@ -12,6 +12,8 @@ There are two scripts and 10 examples here: the two scripts detail how to create
 ## Using the networks
 The examples show the final network as a .html file, these can be downloaded and explored. The networks have physics options to toggle at the bottom of the screen, the recommended setting to sort the networks is 'force2AtlasBased'. Nodes can be moved and placed if physics settings are not enabled, otherwise nodes will return to their original position. PubMedIDs can be found for edged that have an annotation (inhibition/stimulation/two-way interaction) when the edge is moused over. Please note that some edges to not have PubMedIDs even though they contain an annotation, in these cases the interaction is documented through the Human Signalling Network: http://www.bri.nrc.ca/wang/.
 
+To view the networks please click 'clone', then download as a .zip file, this will download the files to your computer where they can then be opened, otherwise only raw html code will be viewed.
+
 ## Required packages
 The required packages to use the R scripts are (including dependencies):
 
